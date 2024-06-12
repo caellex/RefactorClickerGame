@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactorClickerGame", "RewriteClickerGame\RefactorClickerGame.csproj", "{6C8E8BA6-C696-42B7-8383-3B0A8476A973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8E8BA6-C696-42B7-8383-3B0A8476A973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8E8BA6-C696-42B7-8383-3B0A8476A973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8E8BA6-C696-42B7-8383-3B0A8476A973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8E8BA6-C696-42B7-8383-3B0A8476A973}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6523D000-B79A-4EAA-9973-78E340990772}
+	EndGlobalSection
+EndGlobal
